@@ -12,14 +12,12 @@ int calculate(int arr[], int n) {
            smallest = arr[i];
        }
     }
-    int divisor = arr[0];
-    for(int i =1; i<n; i++) {
-        if(arr[i]%smallest == 0) {
-            divisor = smallest;
-            return divisor;
+    for(int i =0; i<n; i++) {
+        if(arr[i]%smallest != 0) {
+            return -1;
         }
-        return -1;
     }
+    return smallest;
 }
 int main() {
     int n;
