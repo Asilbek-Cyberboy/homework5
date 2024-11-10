@@ -7,20 +7,17 @@ void inputarrays(int prices[], int n) {
 }
 int difference(int prices[], int n) {
     int smallest = prices[0];
-    int index = 0;
+    int max_profit = 0;
     for (int i=1; i<n; i++) {
-        if (prices[i] < smallest) {
-            smallest = prices[i];
-            index = i;
+        int profit=prices[i]-smallest;
+        if (profit>max_profit) {
+            max_profit=profit;
+        }
+        if (prices[i]<smallest) {
+            smallest=prices[i];
         }
     }
-    int biggest = prices[index];
-    for (int i=index; i<n; i++) {
-        if (prices[i] > biggest) {
-            biggest = prices[i];
-        }
-    }
-    return biggest - smallest;
+    return max_profit;
 }
 int main() {
     int n;
