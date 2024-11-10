@@ -1,0 +1,7 @@
+C:/Users/User/Downloads/C++/homework5/cmake-build-debug/CMakeFiles/homework5.dir
+C:/Users/User/Downloads/C++/homework5/cmake-build-debug/CMakeFiles/problem2.dir
+C:/Users/User/Downloads/C++/homework5/cmake-build-debug/CMakeFiles/problem3.dir
+C:/Users/User/Downloads/C++/homework5/cmake-build-debug/CMakeFiles/problem4.dir
+C:/Users/User/Downloads/C++/homework5/cmake-build-debug/CMakeFiles/problem5.dir
+C:/Users/User/Downloads/C++/homework5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Downloads/C++/homework5/cmake-build-debug/CMakeFiles/rebuild_cache.dir

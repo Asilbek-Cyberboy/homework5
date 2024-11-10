@@ -1,0 +1,17 @@
+# ninja log v6
+43	502	7528542512946128	CMakeFiles/homework5.dir/problem1.cpp.obj	53911b9539db748a
+513	665	7529139374872532	problem4.exe	a869f37e2bdbd3e0
+502	640	7528542517537328	homework5.exe	c2c230d7f230cd78
+523	714	7529131747831712	problem3.exe	78fbc620d975e8cd
+84	590	7528779791352146	CMakeFiles/problem2.dir/problem2.cpp.obj	a8fb6fb5b065ce0a
+591	1050	7528779796423757	problem2.exe	35ed07c4d19ff832
+40	522	7529131742989063	CMakeFiles/problem3.dir/problem3.cpp.obj	758d764c8b171df7
+38	512	7529139370129280	CMakeFiles/problem4.dir/problem4.cpp.obj	66d213bf0e2cf8f1
+4	495	7529154044182005	CMakeFiles/problem5.dir/problem5.cpp.obj	13e4eefbe93f9b2c
+496	684	7529154049097561	problem5.exe	b194e4b51d788fee
+7	512	7529159554555139	CMakeFiles/problem5.dir/problem5.cpp.obj	13e4eefbe93f9b2c
+512	659	7529159559600023	problem5.exe	b194e4b51d788fee
+40	534	7529161880474043	CMakeFiles/problem5.dir/problem5.cpp.obj	13e4eefbe93f9b2c
+535	688	7529161885417199	problem5.exe	b194e4b51d788fee
+37	538	7529162258266058	CMakeFiles/problem5.dir/problem5.cpp.obj	13e4eefbe93f9b2c
+539	682	7529162263296860	problem5.exe	b194e4b51d788fee
