@@ -2,12 +2,12 @@
 using namespace std;
 void upperprint(string upperstr) {
     for(char c : upperstr) {
-        cout<<" "<<c;
+        cout<<c<<" ";
     }
 }
 void lowerprint(string lowerstr) {
     for(char c : lowerstr) {
-        cout<<" "<<c;
+        cout<<c << " ";
     }
 }
 int main() {
@@ -24,9 +24,9 @@ int main() {
             lowerstr+=s[i];
         }
     }
-    cout<<upper;
+    cout<<upper<<" ";
     upperprint(upperstr);
     cout<<endl;
-    cout<<lower;
+    cout<<lower<<" ";
     lowerprint(lowerstr);
 }
